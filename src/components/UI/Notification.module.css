@@ -1,0 +1,22 @@
+.notification {
+  display: flex;
+  justify-content: space-around;
+  color: #fff;
+  padding: 10px 0;
+}
+.error {
+  background: red;
+}
+.pending {
+  background: rgb(23, 170, 228);
+}
+.success {
+  background: rgb(12, 230, 182);
+}
+.left-bx p {
+  margin: 0;
+}
+
+.right-bx p {
+  margin: 0;
+}
